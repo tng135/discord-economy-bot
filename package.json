@@ -1,0 +1,17 @@
+{
+  "name": "economybot-master",
+  "version": "1.0.0",
+  "description": "##### sup idk what to put here so hi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ms": "^2.1.3",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3"
+  }
+}
